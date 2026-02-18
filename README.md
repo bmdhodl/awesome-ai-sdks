@@ -74,6 +74,19 @@ AgentOps create tools to make agents actually work, e.g., graphs, monitoring, an
 </details>
 
 
+## [AgentGuard](https://github.com/bmdhodl/agent47)
+Runtime guardrails SDK for AI agents — budget enforcement that kills agents mid-run, loop detection, and cost tracking. Zero dependencies, works with LangChain, LangGraph, CrewAI, and raw OpenAI/Anthropic calls.
+
+<details>
+
+### Links
+- [Web](https://agentguard47.com)
+- [GitHub](https://github.com/bmdhodl/agent47)
+- [PyPI](https://pypi.org/project/agentguard47/)
+
+</details>
+
+
 ## [Chidori](https://github.com/ThousandBirdsInc/chidori)
 Chidori is a reactive runtime for building AI agents. It provides a framework for building AI agents that are reactive, observable, and robust. It supports building agents with Node.js, Python, and Rust.
 It is currently in alpha, and is not yet ready for production use.
